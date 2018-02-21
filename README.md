@@ -3,7 +3,7 @@ an uebersicht album-art widget that displays Spotify's currently-playing
 album's artuses a client-server architecture
 
 # Example
-![good album][art.png]
+![good album](art.png)
 
 
 ## What it is
