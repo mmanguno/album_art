@@ -1,0 +1,14 @@
+certifi==2018.1.18
+chardet==3.0.4
+click==6.7
+Flask==0.12.2
+idna==2.6
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+PyYAML==3.12
+requests==2.18.4
+six==1.11.0
+-e git://github.com/plamere/spotipy.git@4c2c1d763a3653aa225c4af848409ec31286a6bf#egg=spotipy
+urllib3==1.22
+Werkzeug==0.14.1
